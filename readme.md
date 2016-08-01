@@ -17,9 +17,9 @@ With the plugin active, all posts on your site will have dynamically generated A
 
 Note #1: that Pages and archives are not currently supported.
 
-Note #2: this plugin only creates AMP content but does not automatically display it to your users when they visit from a mobile device. That is handled by AMP consumers such as Google Search. For more details, see the [AMP Project FAQ](https://www.ampproject.org/docs/support/faqs.html).
+Note #2: this plugin only creates AMP content but does not automatically display it to your users when they visit from a mobile device. That is handled by AMP consumers such as Google Search. For more details, see the [AMP Project FAQ] http://semanticmastery.com/).
 
-Follow along with or contribute to the development of this plugin at https://github.com/Automattic/amp-wp
+Follow along with or contribute to the development of this plugin at https://github.com/Semantic-Mastery/AMP-Plugin
 
 == Installation ==
 
